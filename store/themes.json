@@ -1,5 +1,6 @@
 [
-  {"id":"cyber","name":"Cyber","desc":"Neon azul oscuro","price":400},
-  {"id":"sunset","name":"Sunset","desc":"Tonos calidos naranja","price":350},
-  {"id":"forest","name":"Forest","desc":"Verde naturaleza","price":350}
+  {"id":"paper-light","builtin":"paper","name":"Paper","desc":"Crema clara y contraste suave","price":350,"package":"themes/paper-light.json"},
+  {"id":"daylight-soft","builtin":"daylight","name":"Daylight","desc":"Azul claro limpio y luminoso","price":350,"package":"themes/daylight-soft.json"},
+  {"id":"forest-pack","builtin":"forest","name":"Forest","desc":"Bosque calmado con wallpaper","price":500,"package":"themes/forest-pack.json","wallpaper":"themes/forest_canopy.jpg"},
+  {"id":"sunset-pack","builtin":"sunset","name":"Sunset","desc":"Atardecer calido con wallpaper","price":500,"package":"themes/sunset-pack.json","wallpaper":"themes/sunset_pulse.jpg"}
 ]

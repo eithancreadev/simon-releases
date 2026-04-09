@@ -1,5 +1,5 @@
 [
-  {"id":"snake2","name":"Snake 2","desc":"Mas rapido y colorido","price":200,"size":1200},
-  {"id":"pong","name":"Pong","desc":"Clasico de 2 jugadores","price":150,"size":900},
-  {"id":"tetris","name":"Tetris","desc":"Bloques infinitos","price":300,"size":1500}
+  {"id":"simon-classic","builtin":"simon","name":"Simon","desc":"Memoria tactil y secuencias","price":200,"size":256,"package":"apps/simon-classic.json"},
+  {"id":"snake-arcade","builtin":"snake","name":"Snake","desc":"Clasico con swipe y pausa","price":300,"size":256,"package":"apps/snake-arcade.json"},
+  {"id":"paint-pad","builtin":"paint","name":"Paint","desc":"Lienzo tactil con paleta","price":100,"size":256,"package":"apps/paint-pad.json"}
 ]

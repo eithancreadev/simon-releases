@@ -1,0 +1,8 @@
+{
+  "id": "simon-classic",
+  "builtin": "simon",
+  "name": "Simon",
+  "version": "1.0.0",
+  "entry": "builtin:simon",
+  "desc": "Paquete online para desbloquear Simon en Focus OS."
+}

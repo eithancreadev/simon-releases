@@ -1,0 +1,8 @@
+{
+  "id": "paint-pad",
+  "builtin": "paint",
+  "name": "Paint",
+  "version": "1.0.0",
+  "entry": "builtin:paint",
+  "desc": "Paquete online para desbloquear Paint en Focus OS."
+}

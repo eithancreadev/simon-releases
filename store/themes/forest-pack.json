@@ -1,0 +1,9 @@
+{
+  "id": "forest-pack",
+  "builtin": "forest",
+  "name": "Forest",
+  "version": "1.0.0",
+  "palette": "builtin:forest",
+  "wallpaper": "themes/forest_canopy.jpg",
+  "desc": "Tema forest con wallpaper descargable."
+}

@@ -1,0 +1,8 @@
+{
+  "id": "daylight-soft",
+  "builtin": "daylight",
+  "name": "Daylight",
+  "version": "1.0.0",
+  "palette": "builtin:daylight",
+  "desc": "Tema claro azulado con contraste suave."
+}

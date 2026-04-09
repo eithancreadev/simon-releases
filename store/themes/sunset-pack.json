@@ -1,0 +1,9 @@
+{
+  "id": "sunset-pack",
+  "builtin": "sunset",
+  "name": "Sunset",
+  "version": "1.0.0",
+  "palette": "builtin:sunset",
+  "wallpaper": "themes/sunset_pulse.jpg",
+  "desc": "Tema sunset con wallpaper descargable."
+}

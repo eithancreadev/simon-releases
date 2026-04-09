@@ -1,9 +1,11 @@
-v1.2.0
-- Teclado QWERTY global con Shift/Caps/Simbolos
-- Tienda online: apps y temas por red con sistema de puntos
-- Notificaciones en pantalla completa
-- Actualizacion OTA desde GitHub
-- Mejoras de rendimiento y anti-parpadeo
-- Visualizador de toque (ripple al tocar la pantalla)
-- Pantalla de apps: categoria ya no cubre el nombre
-- Botones mas grandes y textos con mejor espacio
+v1.3.0
+- Focus OS: nuevo branding general del sistema
+- Home: titulo HUB y mejor limpieza visual
+- Menos parpadeo y refresco visual menos obvio
+- Scroll horizontal para textos largos en estados y ajustes
+- Mejoras de layout para evitar textos y botones fuera de pantalla
+- Cursor tactil con restauracion real de pixeles al mover/soltar
+- Buzzer pasivo con tonos mas precisos para piano y efectos
+- Tienda online con descargas reales de paquetes y temas aplicables
+- Nuevos temas claros: Paper y Daylight
+- Mejor compatibilidad del repo OTA/HTTP con redirecciones

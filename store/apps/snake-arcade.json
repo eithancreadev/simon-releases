@@ -1,0 +1,8 @@
+{
+  "id": "snake-arcade",
+  "builtin": "snake",
+  "name": "Snake",
+  "version": "1.0.0",
+  "entry": "builtin:snake",
+  "desc": "Paquete online para desbloquear Snake en Focus OS."
+}
