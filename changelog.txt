@@ -1,8 +1,9 @@
-- Sistema de notificaciones global en pantalla completa
-- Teclado QWERTY unificado para todas las apps
+v1.2.0
+- Teclado QWERTY global con Shift/Caps/Simbolos
+- Tienda online: apps y temas por red con sistema de puntos
+- Notificaciones en pantalla completa
+- Actualizacion OTA desde GitHub
+- Mejoras de rendimiento y anti-parpadeo
 - Visualizador de toque (ripple al tocar la pantalla)
-- Actualizaciones OTA desde servidor GitHub
-- Anti-parpadeo de pantalla con startWrite/endWrite
 - Pantalla de apps: categoria ya no cubre el nombre
-- Tienda mejorada: layout corregido
 - Botones mas grandes y textos con mejor espacio

@@ -1,0 +1,5 @@
+[
+  {"id":"snake2","name":"Snake 2","desc":"Mas rapido y colorido","price":200,"size":1200},
+  {"id":"pong","name":"Pong","desc":"Clasico de 2 jugadores","price":150,"size":900},
+  {"id":"tetris","name":"Tetris","desc":"Bloques infinitos","price":300,"size":1500}
+]

@@ -1,0 +1,5 @@
+[
+  {"id":"cyber","name":"Cyber","desc":"Neon azul oscuro","price":400},
+  {"id":"sunset","name":"Sunset","desc":"Tonos calidos naranja","price":350},
+  {"id":"forest","name":"Forest","desc":"Verde naturaleza","price":350}
+]
